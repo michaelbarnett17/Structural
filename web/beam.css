@@ -1,0 +1,43 @@
+.jumbotron {
+    background-image: url(images/beam.jpg);
+    height:25em;
+    background-size: 100% 100%;
+    margin-bottom: 0px;
+}
+
+.row {
+    padding-top: .5em;
+}
+
+label {
+    text-align: right;
+}
+
+.myButtons {
+    margin-left: 1.5em;
+}
+
+input:focus { 
+    background-color: #ffff99;
+}
+
+body {
+    padding-bottom: 7em;
+}
+
+table {
+    margin-top: 2.5em;
+}
+
+td {
+    width: 5em;
+    font-weight: bold;
+    font-size: 1.3em;
+    border:1px solid #a9a9a9;
+}
+
+#beamTab {
+  background-color:darkslategrey;
+  color: white;
+}
+

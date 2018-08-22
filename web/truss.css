@@ -1,0 +1,45 @@
+.jumbotron {
+    background-image: url(images/bridge.jpg);
+    height:25em;
+    background-size: 100% 100%;
+    margin-bottom:0px;
+}
+
+#memberGroup, #forceGroup, #supportGroup {
+    border:1px solid gray;
+    min-height: 4em;
+    margin-top: .5em;
+}
+
+.row {
+    padding-top: .5em;
+}
+
+label {
+    text-align: right;
+}
+
+input:focus { 
+    background-color: #ffff99;
+}
+
+body {
+    padding-bottom: 7em;
+}
+
+table {
+    margin-top: 2.5em;
+}
+
+td {
+    width: auto;
+    font-weight: bold;
+    font-size: 1.3em;
+    border:1px solid #a9a9a9;
+    padding: .5em;
+}
+
+#trussTab {
+  background-color:darkslategrey;
+  color: white;
+}

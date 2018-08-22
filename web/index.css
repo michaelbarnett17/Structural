@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url(images/whiteBridge.jpg);
+    height:25em;
+    background-size: 100% 100%;
+    margin-bottom:0px;
+}
+
+h4 {
+    text-align: left;
+    position: relative;
+    left: 2em;
+}
+
+h2 {
+    margin-left: .5em;
+}
+
+ul {
+    margin-left: 1em;
+}
+
+a:hover + div {
+    display: block;
+}
+
+#beamText, #trussText, #faqText {
+    visibility: hidden;
+}
+
+body {
+    padding-bottom: 7em;
+}
+
+#indexTab {
+  background-color:darkslategrey;
+  color: white;
+}

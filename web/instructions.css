@@ -1,0 +1,33 @@
+.jumbotron {
+    background-image: url(images/crane.jpg);
+    height:25em;
+    background-size: 100% 100%;
+    margin-bottom:0px;
+}
+
+#instructions {
+    padding-left: 1.5em;
+}
+
+h4 {
+    position: relative;
+    right: 1em;
+}
+
+li {
+    max-width: 75%;
+}
+
+body {
+    padding-bottom: 7em;
+}
+
+footer {
+    padding-left: 2em;
+    margin-top: 10em;
+}
+
+#instructionsTab {
+  background-color:darkslategrey;
+  color: white;
+}
